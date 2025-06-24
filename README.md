@@ -7,6 +7,9 @@ A modern web application that uses the PageRank algorithm to analyze course prer
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-purple?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC?logo=tailwind-css)
 
+## Demo Link : https://drive.google.com/file/d/1MYwKHDxYEfgGKwrh1QOXkSoWCgiPPTm-/view?usp=sharing
+
+
 ## 🌟 Features
 
 - **📊 PageRank Algorithm Implementation**: Advanced graph algorithm to identify foundational courses
